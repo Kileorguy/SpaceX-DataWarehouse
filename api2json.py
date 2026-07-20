@@ -5,7 +5,7 @@ VERSION = "2.3.0/"
 API_URL = "https://lldev.thespacedevs.com/"+VERSION
 
 THROTTLE_ENDPOINT = "api-throttle"
-ENDPOINTS = ['launches','landings','spacecraft_flights', 'payload_flights']
+ENDPOINTS = ['launches','landings','spacecraft_flights', 'payload_flights','agencies']
 response = requests.get(f"{API_URL}{THROTTLE_ENDPOINT}")
 
 if(response.raise_for_status()):

@@ -1,0 +1,436 @@
+{
+    "count": 350,
+    "next": "https://lldev.thespacedevs.com/2.3.0/agencies/?limit=10&offset=10",
+    "previous": null,
+    "results": [
+        {
+            "response_mode": "normal",
+            "id": 225,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/225/",
+            "name": "1worldspace",
+            "abbrev": "1WSP",
+            "type": {
+                "id": 3,
+                "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                }
+            ],
+            "description": "A now nonexistent satellite radio network company that operated two satellites to bring coverage with 62 stations to most of the Eastern Hemisphere. They went bankrupt in 2008. There has been a plan to relaunch the company, but it was announced in 2011, and nothing has been done since.",
+            "administrator": null,
+            "founding_year": 1960,
+            "launchers": "",
+            "spacecraft": "AfriStar | AsiaStar",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 136,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/136/",
+            "name": "Ad Astra Rocket Company",
+            "abbrev": "AARC",
+            "type": {
+                "id": 3,
+                "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                }
+            ],
+            "description": "Ad Astra Rocket Company is an American Space Company doing research and development in plasma propulsion technology. This involves using the technology of VASIMR developed in the late '70s, developed by the companies founder, Franklin Diaz. They have begun testing of their VF-200 model engine, built for interplanetary travel.",
+            "administrator": "President: Dr. Franklin Chang Diaz",
+            "founding_year": 2005,
+            "launchers": "",
+            "spacecraft": "VX-200 | VF-200",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 133,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/133/",
+            "name": "Aerojet",
+            "abbrev": "Aerojet",
+            "type": {
+                "id": 3,
+                "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                }
+            ],
+            "description": "An American Propulsion and Rocket manufacturer founded in 1942 that worked on major projects for NASA such as the Apollo CM main engine, the Space Shuttle Orbital Maneuvering System, and engines for the Titan Rockets the launched the likes of Voyager. They merged with Rocketdyne in 2013.",
+            "administrator": null,
+            "founding_year": 1942,
+            "launchers": "Aerobee | Aerojet General X-8",
+            "spacecraft": "None",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 2,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/2/",
+            "name": "Aeronautics and Space Research and Diffusion Center",
+            "abbrev": "CIDA-E",
+            "type": {
+                "id": 1,
+                "name": "Government"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 58,
+                    "name": "Uruguay",
+                    "alpha_2_code": "UY",
+                    "alpha_3_code": "URY",
+                    "nationality_name": "Uruguayan",
+                    "nationality_name_composed": "Uruguayan"
+                }
+            ],
+            "description": "An Uruguayan Government Space and Aeronautics Research Organization founded in 1975. They study and promote aerospace and space issues along with researching into them. They also advise and collaborate with the Uruguayan Air Force.",
+            "administrator": null,
+            "founding_year": 1975,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 1003,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/1003/",
+            "name": "Aérospatiale",
+            "abbrev": "",
+            "type": {
+                "id": 1,
+                "name": "Government"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 1,
+                    "name": "France",
+                    "alpha_2_code": "FR",
+                    "alpha_3_code": "FRA",
+                    "nationality_name": "French",
+                    "nationality_name_composed": "Franco"
+                }
+            ],
+            "description": "Aérospatiale was a French state-owned aerospace manufacturer that built both civilian and military aircraft, rockets and satellites. It was originally known as Société nationale industrielle aérospatiale (SNIAS). Its head office was in the 16th arrondissement of Paris. The name was changed to Aérospatiale during 1970.",
+            "administrator": null,
+            "founding_year": 1970,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 282,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/282/",
+            "name": "Aevum",
+            "abbrev": "AEV",
+            "type": {
+                "id": 3,
+                "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                }
+            ],
+            "description": null,
+            "administrator": null,
+            "founding_year": null,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 1079,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/1079/",
+            "name": "Agency for Defense Development",
+            "abbrev": "ADD",
+            "type": {
+                "id": 1,
+                "name": "Government"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 35,
+                    "name": "South Korea",
+                    "alpha_2_code": "KR",
+                    "alpha_3_code": "KOR",
+                    "nationality_name": "South Korean",
+                    "nationality_name_composed": "South Korean"
+                }
+            ],
+            "description": "The Agency for Defense Development (ADD) is the South Korean national agency for research and development in defense technology, funded by the Defense Acquisition Program Administration (DAPA). Its purpose is contributing to enforcing the national defence, to improving the national R&D capacity, and to fostering the domestic defense industry.",
+            "administrator": null,
+            "founding_year": 1970,
+            "launchers": "South Korean ADD Solid-Fuel SLV",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": {
+                "id": 105,
+                "name": "[AUTO] Agency for Defense Development - logo",
+                "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_logo_20231204144839.png",
+                "thumbnail_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184905.png",
+                "credit": null,
+                "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                },
+                "single_use": true,
+                "variants": []
+            },
+            "social_logo": {
+                "id": 36,
+                "name": "[AUTO] Agency for Defense Development - social_logo",
+                "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/agency2520for2520defense2520development_nation_20231204144840.jpg",
+                "thumbnail_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184722.jpeg",
+                "credit": null,
+                "license": {
+                    "id": 1,
+                    "name": "Unknown",
+                    "priority": 9,
+                    "link": null
+                },
+                "single_use": true,
+                "variants": []
+            }
+        },
+        {
+            "response_mode": "normal",
+            "id": 178,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/178/",
+            "name": "Airbus Defence and Space",
+            "abbrev": "ADS",
+            "type": {
+                "id": 2,
+                "name": "Multinational"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 1,
+                    "name": "France",
+                    "alpha_2_code": "FR",
+                    "alpha_3_code": "FRA",
+                    "nationality_name": "French",
+                    "nationality_name_composed": "Franco"
+                },
+                {
+                    "id": 3,
+                    "name": "Italy",
+                    "alpha_2_code": "IT",
+                    "alpha_3_code": "ITA",
+                    "nationality_name": "Italian",
+                    "nationality_name_composed": "Italo"
+                },
+                {
+                    "id": 4,
+                    "name": "Germany",
+                    "alpha_2_code": "DE",
+                    "alpha_3_code": "DEU",
+                    "nationality_name": "German",
+                    "nationality_name_composed": "Germano"
+                },
+                {
+                    "id": 7,
+                    "name": "Spain",
+                    "alpha_2_code": "ES",
+                    "alpha_3_code": "ESP",
+                    "nationality_name": "Spanish",
+                    "nationality_name_composed": "Hispano"
+                },
+                {
+                    "id": 10,
+                    "name": "United Kingdom",
+                    "alpha_2_code": "GB",
+                    "alpha_3_code": "GBR",
+                    "nationality_name": "British",
+                    "nationality_name_composed": "Brito"
+                }
+            ],
+            "description": "Airbus Defence and Space is a division of Airbus responsible for defence and aerospace products and services. The division was formed in January 2014 during the corporate restructuring of European Aeronautic Defence and Space (EADS), and comprises the former Airbus Military, Astrium, and Cassidian divisions. It is the world's second largest space company after Boeing and one of the top ten defence companies in the world.",
+            "administrator": "CEO: Michael Schoellhorn",
+            "founding_year": 2014,
+            "launchers": "Ariane",
+            "spacecraft": "ATV | Columbus | Orion ESM",
+            "parent": null,
+            "image": {
+                "id": 2,
+                "name": "Airbus Defence and Space illustration",
+                "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/airbus_defence__image_20250211203957.jpg",
+                "thumbnail_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/airbus_defence__image_thumbnail_20250211203957.jpeg",
+                "credit": "Airbus Defence and Space",
+                "license": {
+                    "id": 36,
+                    "name": "Airbus Image Use Policy",
+                    "priority": 3,
+                    "link": "https://airbus.web.factory.eu.airbus.com/sites/g/files/jlcbta136/files/2023-11/Media%20Centre%20GCU%202017.pdf"
+                },
+                "single_use": true,
+                "variants": []
+            },
+            "logo": {
+                "id": 106,
+                "name": "Airbus logo",
+                "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/airbus2520defence2520and2520space_logo_20190207032423.png",
+                "thumbnail_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/255bauto255d__image_thumbnail_20240305184906.png",
+                "credit": "Airbus",
+                "license": {
+                    "id": 36,
+                    "name": "Airbus Image Use Policy",
+                    "priority": 3,
+                    "link": "https://airbus.web.factory.eu.airbus.com/sites/g/files/jlcbta136/files/2023-11/Media%20Centre%20GCU%202017.pdf"
+                },
+                "single_use": false,
+                "variants": [
+                    {
+                        "id": 15,
+                        "type": {
+                            "id": 1,
+                            "name": "transparent for light background"
+                        },
+                        "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/image_variants/airbus_logo_201_image_20250211204315.png"
+                    },
+                    {
+                        "id": 16,
+                        "type": {
+                            "id": 2,
+                            "name": "transparent for dark background"
+                        },
+                        "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/image_variants/airbus_logo_201_image_20250211204317.png"
+                    }
+                ]
+            },
+            "social_logo": {
+                "id": 37,
+                "name": "Airbus Defence and Space social logo",
+                "image_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/airbus_defence__image_20250210154159.jpeg",
+                "thumbnail_url": "https://thespacedevs-dev.nyc3.digitaloceanspaces.com/media/images/airbus_defence__image_thumbnail_20250210154200.jpeg",
+                "credit": "Airbus",
+                "license": {
+                    "id": 36,
+                    "name": "Airbus Image Use Policy",
+                    "priority": 3,
+                    "link": "https://airbus.web.factory.eu.airbus.com/sites/g/files/jlcbta136/files/2023-11/Media%20Centre%20GCU%202017.pdf"
+                },
+                "single_use": true,
+                "variants": []
+            }
+        },
+        {
+            "response_mode": "normal",
+            "id": 4,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/4/",
+            "name": "Algerian Space Agency",
+            "abbrev": "ASAL",
+            "type": {
+                "id": 1,
+                "name": "Government"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 59,
+                    "name": "Algeria",
+                    "alpha_2_code": "DZ",
+                    "alpha_3_code": "DZA",
+                    "nationality_name": "Algerian",
+                    "nationality_name_composed": "Algerian"
+                }
+            ],
+            "description": null,
+            "administrator": null,
+            "founding_year": null,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        },
+        {
+            "response_mode": "normal",
+            "id": 156,
+            "url": "https://lldev.thespacedevs.com/2.3.0/agencies/156/",
+            "name": "Alliant Techsystems",
+            "abbrev": "ATK",
+            "type": {
+                "id": 3,
+                "name": "Commercial"
+            },
+            "featured": false,
+            "country": [
+                {
+                    "id": 2,
+                    "name": "United States of America",
+                    "alpha_2_code": "US",
+                    "alpha_3_code": "USA",
+                    "nationality_name": "American",
+                    "nationality_name_composed": "Americano"
+                }
+            ],
+            "description": null,
+            "administrator": null,
+            "founding_year": null,
+            "launchers": "",
+            "spacecraft": "",
+            "parent": null,
+            "image": null,
+            "logo": null,
+            "social_logo": null
+        }
+    ]
+}

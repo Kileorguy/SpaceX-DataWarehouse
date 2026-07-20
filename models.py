@@ -91,6 +91,7 @@ class LocationDimension(Base):
     __tablename__ = "dim_location"
 
     location_key = Column(Integer, primary_key=True)
+    location_id = Column(Integer, unique=True)
 
     name = Column(String)
     abbreviation = Column(String)
@@ -168,7 +169,7 @@ class AgencyDimension(Base):
 class LaunchFact(Base):
     __tablename__ = "fact_launch"
 
-    launch_key = Column(Integer, primary_key=True)
+    launch_key = Column(String, primary_key=True)
 
     date_key = Column(
         Integer,
@@ -266,7 +267,7 @@ class PayloadFact(Base):
     )
 
     launch_key = Column(
-        Integer,
+        String,
         ForeignKey("fact_launch.launch_key")
     )
 
