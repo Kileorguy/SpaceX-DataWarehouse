@@ -1,0 +1,51 @@
+,id,response_mode,id,url,name,families,full_name,variant
+0,9063,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+1,7783,list,138,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/138/,New Glenn,"[{'response_mode': 'list', 'id': 214, 'name': 'New Glenn'}]",New Glenn,
+2,7783,list,138,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/138/,New Glenn,"[{'response_mode': 'list', 'id': 214, 'name': 'New Glenn'}]",New Glenn,
+3,2489,list,161,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/161/,Falcon Heavy,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}]",Falcon Heavy,Heavy
+4,8811,list,173,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/173/,Pegasus XL,"[{'response_mode': 'list', 'id': 117, 'name': 'Pegasus'}]",Pegasus XL,
+5,7792,list,127,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/127/,Vega-C,"[{'response_mode': 'list', 'id': 3, 'name': 'Vega'}]",Vega-C,
+6,7737,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+7,8433,list,127,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/127/,Vega-C,"[{'response_mode': 'list', 'id': 3, 'name': 'Vega'}]",Vega-C,
+8,169,list,121,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/121/,Ariane 62,"[{'response_mode': 'list', 'id': 59, 'name': 'Ariane'}, {'response_mode': 'list', 'id': 62, 'name': 'Ariane 6'}]",Ariane 62,62
+9,7615,list,161,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/161/,Falcon Heavy,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}]",Falcon Heavy,Heavy
+10,7718,list,121,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/121/,Ariane 62,"[{'response_mode': 'list', 'id': 59, 'name': 'Ariane'}, {'response_mode': 'list', 'id': 62, 'name': 'Ariane 6'}]",Ariane 62,62
+11,8433,list,127,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/127/,Vega-C,"[{'response_mode': 'list', 'id': 3, 'name': 'Vega'}]",Vega-C,
+12,2625,list,143,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/143/,Space Launch System (SLS),"[{'response_mode': 'list', 'id': 149, 'name': 'Space Launch System'}]",Space Launch System Block 1,Block 1
+13,2710,list,166,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/166/,Atlas V N22,"[{'response_mode': 'list', 'id': 66, 'name': 'Atlas'}, {'response_mode': 'list', 'id': 174, 'name': 'Atlas V'}]",Atlas V N22,V N22
+14,187,list,143,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/143/,Space Launch System (SLS),"[{'response_mode': 'list', 'id': 149, 'name': 'Space Launch System'}]",Space Launch System Block 1,Block 1
+15,2529,list,202,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/202/,Vulcan VC4L,"[{'response_mode': 'list', 'id': 170, 'name': 'Vulcan'}]",Vulcan VC4L,VC4L
+16,7523,list,172,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/172/,LVM-3 (GSLV Mk III),"[{'response_mode': 'list', 'id': 84, 'name': 'GSLV'}]",Launch Vehicle Mark-3 (GSLV Mk III),
+17,7524,list,172,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/172/,LVM-3 (GSLV Mk III),"[{'response_mode': 'list', 'id': 84, 'name': 'GSLV'}]",Launch Vehicle Mark-3 (GSLV Mk III),
+18,7522,list,172,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/172/,LVM-3 (GSLV Mk III),"[{'response_mode': 'list', 'id': 84, 'name': 'GSLV'}]",Launch Vehicle Mark-3 (GSLV Mk III),
+19,7857,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+20,8033,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+21,8428,list,24,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/24/,Soyuz 2.1a,"[{'response_mode': 'list', 'id': 147, 'name': 'Soyuz'}, {'response_mode': 'list', 'id': 190, 'name': 'Soyuz 2'}]",Soyuz 2.1a,
+22,8430,list,24,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/24/,Soyuz 2.1a,"[{'response_mode': 'list', 'id': 147, 'name': 'Soyuz'}, {'response_mode': 'list', 'id': 190, 'name': 'Soyuz 2'}]",Soyuz 2.1a,
+23,8559,list,84,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/84/,Long March 2F/G,"[{'response_mode': 'list', 'id': 106, 'name': 'Long March'}, {'response_mode': 'list', 'id': 109, 'name': 'Long March 2'}]",Long March 2F/G,F/G
+24,7748,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+25,8603,list,172,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/172/,LVM-3 (GSLV Mk III),"[{'response_mode': 'list', 'id': 84, 'name': 'GSLV'}]",Launch Vehicle Mark-3 (GSLV Mk III),
+26,7598,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+27,7746,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+28,7752,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+29,8696,list,527,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/527/,Starship,"[{'response_mode': 'list', 'id': 156, 'name': 'Starship'}]",Starship V2,V2
+30,8665,list,137,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/137/,New Shepard,[],New Shepard,
+31,8685,list,137,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/137/,New Shepard,[],New Shepard,
+32,8653,list,24,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/24/,Soyuz 2.1a,"[{'response_mode': 'list', 'id': 147, 'name': 'Soyuz'}, {'response_mode': 'list', 'id': 190, 'name': 'Soyuz 2'}]",Soyuz 2.1a,
+33,8708,list,522,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/522/,Starship,"[{'response_mode': 'list', 'id': 156, 'name': 'Starship'}]",Starship V3,V3
+34,8767,list,137,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/137/,New Shepard,[],New Shepard,
+35,8644,list,527,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/527/,Starship,"[{'response_mode': 'list', 'id': 156, 'name': 'Starship'}]",Starship V2,V2
+36,8730,list,137,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/137/,New Shepard,[],New Shepard,
+37,2540,list,204,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/204/,H3-24,"[{'response_mode': 'list', 'id': 86, 'name': 'H3'}]",H3-24,24
+38,8806,list,84,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/84/,Long March 2F/G,"[{'response_mode': 'list', 'id': 106, 'name': 'Long March'}, {'response_mode': 'list', 'id': 109, 'name': 'Long March 2'}]",Long March 2F/G,F/G
+39,8911,list,84,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/84/,Long March 2F/G,"[{'response_mode': 'list', 'id': 106, 'name': 'Long March'}, {'response_mode': 'list', 'id': 109, 'name': 'Long March 2'}]",Long March 2F/G,F/G
+40,8881,list,137,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/137/,New Shepard,[],New Shepard,
+41,8900,list,84,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/84/,Long March 2F/G,"[{'response_mode': 'list', 'id': 106, 'name': 'Long March'}, {'response_mode': 'list', 'id': 109, 'name': 'Long March 2'}]",Long March 2F/G,F/G
+42,7599,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+43,8859,list,24,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/24/,Soyuz 2.1a,"[{'response_mode': 'list', 'id': 147, 'name': 'Soyuz'}, {'response_mode': 'list', 'id': 190, 'name': 'Soyuz 2'}]",Soyuz 2.1a,
+44,8431,list,24,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/24/,Soyuz 2.1a,"[{'response_mode': 'list', 'id': 147, 'name': 'Soyuz'}, {'response_mode': 'list', 'id': 190, 'name': 'Soyuz 2'}]",Soyuz 2.1a,
+45,7753,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+46,7600,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+47,9012,list,100,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/100/,Long March 7,"[{'response_mode': 'list', 'id': 106, 'name': 'Long March'}, {'response_mode': 'list', 'id': 114, 'name': 'Long March 7'}]",Long March 7,
+48,7747,list,164,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/164/,Falcon 9,"[{'response_mode': 'list', 'id': 1, 'name': 'Falcon'}, {'response_mode': 'list', 'id': 176, 'name': 'Falcon 9'}]",Falcon 9 Block 5,Block 5
+49,8879,list,522,https://lldev.thespacedevs.com/2.3.0/launcher_configurations/522/,Starship,"[{'response_mode': 'list', 'id': 156, 'name': 'Starship'}]",Starship V3,V3

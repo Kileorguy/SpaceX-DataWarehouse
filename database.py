@@ -14,6 +14,8 @@ DATABASE_URL = (
     f"{os.getenv('POSTGRES_DB', 'spacex_dwh')}"
 )
 
+print(DATABASE_URL)
+
 engine = create_engine(DATABASE_URL)
 
 SessionLocal = sessionmaker(
