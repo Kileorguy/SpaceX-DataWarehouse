@@ -6,7 +6,7 @@ API_URL = "https://lldev.thespacedevs.com/"+VERSION
 
 THROTTLE_ENDPOINT = "api-throttle"
 # ENDPOINTS = ['launches','landings','spacecraft_flights', 'payload_flights','agencies', 'payloads','programs','locations', 'pads','spacecraft']
-ENDPOINTS = ['payload_flights']
+ENDPOINTS = ['landings']
 response = requests.get(f"{API_URL}{THROTTLE_ENDPOINT}")
 
 if(response.raise_for_status()):
@@ -19,6 +19,7 @@ else:
         for e in ENDPOINTS:
             print(e)
             response = requests.get(f"{API_URL}{e}/?limit=100")
+            print(response)
             if(response.raise_for_status()):
                 print("Error :", response.raise_for_status())
             else:
