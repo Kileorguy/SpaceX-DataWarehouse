@@ -17,7 +17,7 @@ def run():
         )
 
     lookups = build_lookups()
-    print(lookups['orbit'])
+    print(lookups['program'])
 
     for model, cfg in FACT_CONFIG.items():
         # break

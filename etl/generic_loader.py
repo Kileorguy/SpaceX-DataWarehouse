@@ -151,7 +151,6 @@ def load_fact(
                     continue
 
                 key = clean_row[unique_key]
-
                 if key in existing:
                     continue
 

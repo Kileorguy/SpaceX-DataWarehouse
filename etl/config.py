@@ -253,13 +253,14 @@ FACT_CONFIG = {
 
     LaunchFact: {
 
-    "json_file": "staging_data/launches.csv",
+    "json_file": "staging_data/splitted/launches.json",
 
     "unique_key": "launch_key",
 
     "transform": lambda x, lookup: {
 
         "launch_key": x["id"],
+        "orbit_key": x["mission"]["orbit"]["id"], 
 
         "date_key": lookup["date"].get(
             int(
@@ -312,111 +313,113 @@ FACT_CONFIG = {
     }
 },
 
-# LandingFact: {
+LandingFact: {
 
-#     "json_file": "staging_data/spacecraft_flights.csv",
+    "json_file": "staging_data/splitted/landings.json",
 
-#     "unique_key": "landing_id",
+    "unique_key": "landing_id",
 
-#     "transform": lambda x, lookup: {
+    "transform": lambda x, lookup: {
 
-#         "landing_id": x["landing"]["id"],
+        "landing_id": x["id"],
+        "orbit_key": x["spacecraftflight"]["launch"]["mission"]["orbit"]["id"] if x["spacecraftflight"] else None,
 
-#         "date_key": lookup["date"][
-#             str(int(
-#                 datetime
-#                 .fromisoformat(
-#                     x["launch"]["window_start"]
-#                     .replace(
-#                         "Z",
-#                         "+00:00"
-#                     )
-#                 )
-#                 .strftime("%Y%m%d")
-#             ))
-#         ],
+        "date_key": lookup["date"][
+            str(int(
+                datetime
+                .fromisoformat(
+                    x["spacecraftflight"]["launch"]["window_start"]
+                    .replace(
+                        "Z",
+                        "+00:00"
+                    )
+                )
+                .strftime("%Y%m%d")
+            )) 
+        ]  if x["spacecraftflight"] else None,
 
-#         "spacecraft_key": lookup[
-#             "spacecraft"
-#         ][
-#             str(
-#                 x["spacecraft"]["id"]
-#             )
-#         ],
+        "spacecraft_key": lookup[
+            "spacecraft"
+        ][
+            str(
+                int(x["spacecraft_id"])
+            )
+        ] if x["spacecraft_id"] else None,
 
-#         "location_key": lookup[
-#             "location"
-#         ][
-#             str(
-#                 x["landing"]["landing_location"]["id"]
-#             )
-#         ],
+        "location_key": lookup[
+            "location"
+        ][
+            str(
+                x["landing_location"]["id"]
+            )
+        ] if x["landing_location"] else None,
 
-#         "landing_type_key": lookup[
-#             "landing_type"
-#         ][
-#             str(
-#                 x["landing"]["type"]["id"]
-#             )
-#         ],
+        "landing_type_key": lookup[
+            "landing_type"
+        ][
+            str(
+                x["type"]["id"]
+            )
+        ],
 
-#         "attempt_flag": x["landing"]["attempt"],
+        "attempt_flag": x["attempt"],
 
-#         "success_flag": x["landing"]["success"]
-#     }
-# },
-# PayloadFact: {
+        "success_flag": x["success"]
+    }
+},
+PayloadFact: {
 
-#     "json_file": "staging_data/payload_flights.csv",
+    "json_file": "staging_data/splitted/payloads.json",
 
-#     "unique_key": "payload_id",
+    "unique_key": "payload_id",
 
-#     "transform": lambda x, lookup: {
+    "transform": lambda x, lookup: {
 
-#         "payload_id": x["id"],
-#         "payload_name": x["payload"]["name"],
-#         "description": x["payload"]["description"],
-#         "payload_type": x["payload"]["type"]["id"],
+        "payload_id": x["id"],
+        "payload_name": x["name"],
+        "description": x["description"],
+        "payload_type": x["type"]["id"],
 
-#         "launch_key": lookup[
-#             "launch"
-#         ].get(
-#             str(
-#                 x["launch"]["id"]
-#             )
-#         ),
+        "launch_key": None,
+        # lookup[ UDAH GA DIPAKE
+        #     "launch"
+        # ].get(
+        #     str(pr
+        #         x["launch"]["id"]
+        #     )
+        # ),
 
-#         "program_key": (
-#             lookup["program"].get(
-#                 str(x["payload"]["program"][0]["id"])
-#             )
-#             if x["payload"]["program"]
-#             else None
-#         ),
+        "program_key": (
+            lookup["program"].get(
+                str(x["program"][0]["id"])
+            )
+            if x["program"]
+            else None
+        ),
 
-#         "manufacturer_key": lookup[
-#             "agency"
-#         ][
-#             str(
-#                 x["payload"]["manufacturer"]["id"]
-#             )
-#         ],
+        "manufacturer_key": lookup[
+            "agency"
+        ][
+            str(
+                x["manufacturer"]["id"]
+            )
+        ],
 
-#         "operator_key": lookup[
-#             "agency"
-#         ][
-#             str(
-#                 x["payload"]["operator"]["id"]
-#             )
-#         ],
+        "operator_key": lookup[
+            "agency"
+        ][
+            str(
+                x["operator"]["id"]
+            )
+        ],
 
-#         "payload_count": 1,
+        "payload_count": 1,
 
-#         "mass_kg": x['payload']["mass"],
+        "mass_kg": x["mass"],
 
-#         "cost": x["payload"]["cost"] or -1
-#     }
-# }
+        "cost": x["cost"] or -1
+    }
+}
 
     
 }

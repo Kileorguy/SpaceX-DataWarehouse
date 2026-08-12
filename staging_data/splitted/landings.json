@@ -157,7 +157,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":500.0,
+        "spacecraft_id":541.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -277,7 +277,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1049.0,
+        "spacecraft_id":290.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -359,7 +359,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":499.0,
+        "spacecraft_id":540.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -479,7 +479,7 @@
             "abbrev":"HL",
             "description":"Horizontal landing on a runway or flat surface."
         },
-        "spacecraft_id":450.0,
+        "spacecraft_id":447.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -561,7 +561,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":453.0,
+        "spacecraft_id":548.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -643,7 +643,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":454.0,
+        "spacecraft_id":549.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -725,7 +725,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":452.0,
+        "spacecraft_id":547.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -791,7 +791,7 @@
             "abbrev":"HL",
             "description":"Horizontal landing on a runway or flat surface."
         },
-        "spacecraft_id":1667.0,
+        "spacecraft_id":558.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -873,7 +873,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1246.0,
+        "spacecraft_id":452.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -955,7 +955,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1605.0,
+        "spacecraft_id":612.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1075,7 +1075,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1696.0,
+        "spacecraft_id":622.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1157,7 +1157,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1594.0,
+        "spacecraft_id":610.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1239,7 +1239,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1601.0,
+        "spacecraft_id":569.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1321,7 +1321,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1615.0,
+        "spacecraft_id":613.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1403,7 +1403,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1466.0,
+        "spacecraft_id":289.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1485,7 +1485,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1599.0,
+        "spacecraft_id":554.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1505,7 +1505,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1676.0,
+        "spacecraft_id":619.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1587,7 +1587,7 @@
             "abbrev":"Ocean",
             "description":"No recovery attempt"
         },
-        "spacecraft_id":1693.0,
+        "spacecraft_id":620.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1707,7 +1707,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1663.0,
+        "spacecraft_id":453.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1827,7 +1827,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1678.0,
+        "spacecraft_id":276.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1909,7 +1909,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1650.0,
+        "spacecraft_id":616.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -1991,7 +1991,7 @@
             "abbrev":"Ocean",
             "description":"No recovery attempt"
         },
-        "spacecraft_id":1757.0,
+        "spacecraft_id":621.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2111,7 +2111,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1720.0,
+        "spacecraft_id":599.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2193,7 +2193,7 @@
             "abbrev":"Ocean",
             "description":"No recovery attempt"
         },
-        "spacecraft_id":1657.0,
+        "spacecraft_id":618.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2313,7 +2313,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1709.0,
+        "spacecraft_id":453.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2333,7 +2333,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1726.0,
+        "spacecraft_id":623.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2415,7 +2415,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1738.0,
+        "spacecraft_id":624.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2497,7 +2497,7 @@
             "abbrev":"HL",
             "description":"Horizontal landing on a runway or flat surface."
         },
-        "spacecraft_id":1810.0,
+        "spacecraft_id":560.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2617,7 +2617,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1767.0,
+        "spacecraft_id":453.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2699,7 +2699,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1866.0,
+        "spacecraft_id":629.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2781,7 +2781,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1749.0,
+        "spacecraft_id":551.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -2901,7 +2901,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1851.0,
+        "spacecraft_id":628.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -3021,7 +3021,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1832.0,
+        "spacecraft_id":625.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -3103,7 +3103,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1840.0,
+        "spacecraft_id":626.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -3185,7 +3185,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1848.0,
+        "spacecraft_id":452.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -3251,7 +3251,7 @@
             "abbrev":"ATM",
             "description":"Spacecraft burned up in the atmosphere"
         },
-        "spacecraft_id":1850.0,
+        "spacecraft_id":627.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -3333,7 +3333,7 @@
             "abbrev":"PCL",
             "description":"Unpowered landing using parachute(s)."
         },
-        "spacecraft_id":1600.0,
+        "spacecraft_id":474.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
@@ -3415,7 +3415,7 @@
             "abbrev":"Ocean",
             "description":"No recovery attempt"
         },
-        "spacecraft_id":1895.0,
+        "spacecraft_id":630.0,
         "response_mode":null,
         "firststage":null,
         "spacecraftflight":null,
