@@ -32,6 +32,7 @@ def load_dimension(
         objects = []
 
         for row in raw_data:
+            print(row)
 
             transformed_rows = transform(row)
 

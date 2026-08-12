@@ -1,0 +1,2698 @@
+[
+    {
+        "id":9063,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7783,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/138\/",
+        "name":"New Glenn",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":214,
+                "name":"New Glenn"
+            }
+        ],
+        "full_name":"New Glenn",
+        "variant":""
+    },
+    {
+        "id":7783,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/138\/",
+        "name":"New Glenn",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":214,
+                "name":"New Glenn"
+            }
+        ],
+        "full_name":"New Glenn",
+        "variant":""
+    },
+    {
+        "id":2489,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/161\/",
+        "name":"Falcon Heavy",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            }
+        ],
+        "full_name":"Falcon Heavy",
+        "variant":"Heavy"
+    },
+    {
+        "id":8811,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/173\/",
+        "name":"Pegasus XL",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":117,
+                "name":"Pegasus"
+            }
+        ],
+        "full_name":"Pegasus XL",
+        "variant":""
+    },
+    {
+        "id":7792,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/127\/",
+        "name":"Vega-C",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":3,
+                "name":"Vega"
+            }
+        ],
+        "full_name":"Vega-C",
+        "variant":""
+    },
+    {
+        "id":7737,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8433,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/127\/",
+        "name":"Vega-C",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":3,
+                "name":"Vega"
+            }
+        ],
+        "full_name":"Vega-C",
+        "variant":""
+    },
+    {
+        "id":169,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/121\/",
+        "name":"Ariane 62",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":59,
+                "name":"Ariane"
+            },
+            {
+                "response_mode":"list",
+                "id":62,
+                "name":"Ariane 6"
+            }
+        ],
+        "full_name":"Ariane 62",
+        "variant":"62"
+    },
+    {
+        "id":7615,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/161\/",
+        "name":"Falcon Heavy",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            }
+        ],
+        "full_name":"Falcon Heavy",
+        "variant":"Heavy"
+    },
+    {
+        "id":7718,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/121\/",
+        "name":"Ariane 62",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":59,
+                "name":"Ariane"
+            },
+            {
+                "response_mode":"list",
+                "id":62,
+                "name":"Ariane 6"
+            }
+        ],
+        "full_name":"Ariane 62",
+        "variant":"62"
+    },
+    {
+        "id":8433,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/127\/",
+        "name":"Vega-C",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":3,
+                "name":"Vega"
+            }
+        ],
+        "full_name":"Vega-C",
+        "variant":""
+    },
+    {
+        "id":2625,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/143\/",
+        "name":"Space Launch System (SLS)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":149,
+                "name":"Space Launch System"
+            }
+        ],
+        "full_name":"Space Launch System Block 1",
+        "variant":"Block 1"
+    },
+    {
+        "id":2710,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/166\/",
+        "name":"Atlas V N22",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":66,
+                "name":"Atlas"
+            },
+            {
+                "response_mode":"list",
+                "id":174,
+                "name":"Atlas V"
+            }
+        ],
+        "full_name":"Atlas V N22",
+        "variant":"V N22"
+    },
+    {
+        "id":187,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/143\/",
+        "name":"Space Launch System (SLS)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":149,
+                "name":"Space Launch System"
+            }
+        ],
+        "full_name":"Space Launch System Block 1",
+        "variant":"Block 1"
+    },
+    {
+        "id":2529,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/202\/",
+        "name":"Vulcan VC4L",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":170,
+                "name":"Vulcan"
+            }
+        ],
+        "full_name":"Vulcan VC4L",
+        "variant":"VC4L"
+    },
+    {
+        "id":7523,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/172\/",
+        "name":"LVM-3 (GSLV Mk III)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":84,
+                "name":"GSLV"
+            }
+        ],
+        "full_name":"Launch Vehicle Mark-3 (GSLV Mk III)",
+        "variant":""
+    },
+    {
+        "id":7524,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/172\/",
+        "name":"LVM-3 (GSLV Mk III)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":84,
+                "name":"GSLV"
+            }
+        ],
+        "full_name":"Launch Vehicle Mark-3 (GSLV Mk III)",
+        "variant":""
+    },
+    {
+        "id":7522,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/172\/",
+        "name":"LVM-3 (GSLV Mk III)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":84,
+                "name":"GSLV"
+            }
+        ],
+        "full_name":"Launch Vehicle Mark-3 (GSLV Mk III)",
+        "variant":""
+    },
+    {
+        "id":7857,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8033,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8428,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/24\/",
+        "name":"Soyuz 2.1a",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1a",
+        "variant":""
+    },
+    {
+        "id":8430,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/24\/",
+        "name":"Soyuz 2.1a",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1a",
+        "variant":""
+    },
+    {
+        "id":8559,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/84\/",
+        "name":"Long March 2F\/G",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2F\/G",
+        "variant":"F\/G"
+    },
+    {
+        "id":7748,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8603,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/172\/",
+        "name":"LVM-3 (GSLV Mk III)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":84,
+                "name":"GSLV"
+            }
+        ],
+        "full_name":"Launch Vehicle Mark-3 (GSLV Mk III)",
+        "variant":""
+    },
+    {
+        "id":7598,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7746,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7752,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8696,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/527\/",
+        "name":"Starship",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":156,
+                "name":"Starship"
+            }
+        ],
+        "full_name":"Starship V2",
+        "variant":"V2"
+    },
+    {
+        "id":8665,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":8685,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":8653,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/24\/",
+        "name":"Soyuz 2.1a",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1a",
+        "variant":""
+    },
+    {
+        "id":8708,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/522\/",
+        "name":"Starship",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":156,
+                "name":"Starship"
+            }
+        ],
+        "full_name":"Starship V3",
+        "variant":"V3"
+    },
+    {
+        "id":8767,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":8644,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/527\/",
+        "name":"Starship",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":156,
+                "name":"Starship"
+            }
+        ],
+        "full_name":"Starship V2",
+        "variant":"V2"
+    },
+    {
+        "id":8730,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":2540,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/204\/",
+        "name":"H3-24",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":86,
+                "name":"H3"
+            }
+        ],
+        "full_name":"H3-24",
+        "variant":"24"
+    },
+    {
+        "id":8806,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/84\/",
+        "name":"Long March 2F\/G",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2F\/G",
+        "variant":"F\/G"
+    },
+    {
+        "id":8911,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/84\/",
+        "name":"Long March 2F\/G",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2F\/G",
+        "variant":"F\/G"
+    },
+    {
+        "id":8881,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":8900,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/84\/",
+        "name":"Long March 2F\/G",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2F\/G",
+        "variant":"F\/G"
+    },
+    {
+        "id":7599,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8859,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/24\/",
+        "name":"Soyuz 2.1a",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1a",
+        "variant":""
+    },
+    {
+        "id":8431,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/24\/",
+        "name":"Soyuz 2.1a",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1a",
+        "variant":""
+    },
+    {
+        "id":7753,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7600,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":9012,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/100\/",
+        "name":"Long March 7",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":114,
+                "name":"Long March 7"
+            }
+        ],
+        "full_name":"Long March 7",
+        "variant":""
+    },
+    {
+        "id":7747,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8879,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/522\/",
+        "name":"Starship",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":156,
+                "name":"Starship"
+            }
+        ],
+        "full_name":"Starship V3",
+        "variant":"V3"
+    },
+    {
+        "id":8112,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":169,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/121\/",
+        "name":"Ariane 62",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":59,
+                "name":"Ariane"
+            },
+            {
+                "response_mode":"list",
+                "id":62,
+                "name":"Ariane 6"
+            }
+        ],
+        "full_name":"Ariane 62",
+        "variant":"62"
+    },
+    {
+        "id":2743,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/516\/",
+        "name":"Vulcan VC4S",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":170,
+                "name":"Vulcan"
+            }
+        ],
+        "full_name":"Vulcan VC4S",
+        "variant":"VC4S"
+    },
+    {
+        "id":8678,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/508\/",
+        "name":"Long March 5B\/YZ-2",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":112,
+                "name":"Long March 5"
+            }
+        ],
+        "full_name":"Long March 5B\/YZ-2",
+        "variant":"B\/YZ-2"
+    },
+    {
+        "id":8668,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8672,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8679,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/519\/",
+        "name":"Zhuque-2E",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":203,
+                "name":"Zhuque"
+            }
+        ],
+        "full_name":"Zhuque-2E",
+        "variant":"2E"
+    },
+    {
+        "id":8682,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/64\/",
+        "name":"Long March 4C",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":111,
+                "name":"Long March 4"
+            }
+        ],
+        "full_name":"Long March 4C",
+        "variant":"C"
+    },
+    {
+        "id":8681,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/478\/",
+        "name":"Long March 6A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":113,
+                "name":"Long March 6"
+            }
+        ],
+        "full_name":"Long March 6A",
+        "variant":"A"
+    },
+    {
+        "id":8674,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8680,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/483\/",
+        "name":"Kinetica 1",
+        "families":[
+
+        ],
+        "full_name":"Kinetica 1",
+        "variant":""
+    },
+    {
+        "id":8083,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/15\/",
+        "name":"Soyuz 2.1b",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1b",
+        "variant":""
+    },
+    {
+        "id":8683,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/136\/",
+        "name":"Angara 1.2",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":56,
+                "name":"Angara"
+            },
+            {
+                "response_mode":"list",
+                "id":180,
+                "name":"Angara 1.2"
+            }
+        ],
+        "full_name":"Angara 1.2",
+        "variant":"1.2"
+    },
+    {
+        "id":7857,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8675,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8686,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/26\/",
+        "name":"Electron",
+        "families":[
+
+        ],
+        "full_name":"Electron",
+        "variant":""
+    },
+    {
+        "id":7746,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8684,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/518\/",
+        "name":"Long March 8A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":115,
+                "name":"Long March 8"
+            }
+        ],
+        "full_name":"Long March 8A",
+        "variant":"A"
+    },
+    {
+        "id":2136,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8644,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/527\/",
+        "name":"Starship",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":156,
+                "name":"Starship"
+            }
+        ],
+        "full_name":"Starship V2",
+        "variant":"V2"
+    },
+    {
+        "id":8687,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8673,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8677,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8688,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8697,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/110\/",
+        "name":"Shavit-2",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":140,
+                "name":"Shavit"
+            }
+        ],
+        "full_name":"Shavit-2",
+        "variant":"2"
+    },
+    {
+        "id":8689,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8690,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8698,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/36\/",
+        "name":"Long March 3C\/YZ-1",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":110,
+                "name":"Long March 3"
+            }
+        ],
+        "full_name":"Long March 3C\/YZ-1",
+        "variant":"C\/YZ-1"
+    },
+    {
+        "id":8699,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/461\/",
+        "name":"Ceres-1",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":2,
+                "name":"Ceres-1"
+            }
+        ],
+        "full_name":"Ceres-1",
+        "variant":"Ceres-1"
+    },
+    {
+        "id":8694,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8700,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/478\/",
+        "name":"Long March 6A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":113,
+                "name":"Long March 6"
+            }
+        ],
+        "full_name":"Long March 6A",
+        "variant":"A"
+    },
+    {
+        "id":8695,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8702,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/484\/",
+        "name":"Smart Dragon 3",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":145,
+                "name":"Smart Dragon"
+            }
+        ],
+        "full_name":"Smart Dragon 3",
+        "variant":""
+    },
+    {
+        "id":8703,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/216\/",
+        "name":"Long March 7A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":114,
+                "name":"Long March 7"
+            }
+        ],
+        "full_name":"Long March 7A",
+        "variant":"A"
+    },
+    {
+        "id":7892,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8430,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/24\/",
+        "name":"Soyuz 2.1a",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1a",
+        "variant":""
+    },
+    {
+        "id":7545,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8147,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/42\/",
+        "name":"Soyuz 2.1b\/Fregat",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":147,
+                "name":"Soyuz"
+            },
+            {
+                "response_mode":"list",
+                "id":190,
+                "name":"Soyuz 2"
+            }
+        ],
+        "full_name":"Soyuz 2.1b Fregat",
+        "variant":"Fregat"
+    },
+    {
+        "id":8693,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7752,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8705,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/156\/",
+        "name":"Long March 2C\/YZ-1S",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2C\/YZ-1S",
+        "variant":"C\/YZ-1S"
+    },
+    {
+        "id":8706,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8685,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":8704,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8707,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8523,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8711,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/26\/",
+        "name":"Electron",
+        "families":[
+
+        ],
+        "full_name":"Electron",
+        "variant":""
+    },
+    {
+        "id":8719,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/484\/",
+        "name":"Smart Dragon 3",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":145,
+                "name":"Smart Dragon"
+            }
+        ],
+        "full_name":"Smart Dragon 3",
+        "variant":""
+    },
+    {
+        "id":7456,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8713,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":163,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/27\/",
+        "name":"Atlas V 551",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":66,
+                "name":"Atlas"
+            },
+            {
+                "response_mode":"list",
+                "id":174,
+                "name":"Atlas V"
+            }
+        ],
+        "full_name":"Atlas V 551",
+        "variant":"551"
+    },
+    {
+        "id":8712,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8721,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/64\/",
+        "name":"Long March 4C",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":111,
+                "name":"Long March 4"
+            }
+        ],
+        "full_name":"Long March 4C",
+        "variant":"C"
+    },
+    {
+        "id":8725,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/478\/",
+        "name":"Long March 6A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":113,
+                "name":"Long March 6"
+            }
+        ],
+        "full_name":"Long March 6A",
+        "variant":"A"
+    },
+    {
+        "id":8722,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8729,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/17\/",
+        "name":"Long March 2D",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2D",
+        "variant":"D"
+    },
+    {
+        "id":8660,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/26\/",
+        "name":"Electron",
+        "families":[
+
+        ],
+        "full_name":"Electron",
+        "variant":""
+    },
+    {
+        "id":8726,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8724,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8733,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8730,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/137\/",
+        "name":"New Shepard",
+        "families":[
+
+        ],
+        "full_name":"New Shepard",
+        "variant":""
+    },
+    {
+        "id":8759,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/503\/",
+        "name":"Gravity-1",
+        "families":[
+
+        ],
+        "full_name":"Gravity-1",
+        "variant":"Gravity-1"
+    },
+    {
+        "id":8766,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/17\/",
+        "name":"Long March 2D",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2D",
+        "variant":"D"
+    },
+    {
+        "id":8696,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/527\/",
+        "name":"Starship",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":156,
+                "name":"Starship"
+            }
+        ],
+        "full_name":"Starship V2",
+        "variant":"V2"
+    },
+    {
+        "id":8113,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8263,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/26\/",
+        "name":"Electron",
+        "families":[
+
+        ],
+        "full_name":"Electron",
+        "variant":""
+    },
+    {
+        "id":7893,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8734,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/518\/",
+        "name":"Long March 8A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":115,
+                "name":"Long March 8"
+            }
+        ],
+        "full_name":"Long March 8A",
+        "variant":"A"
+    },
+    {
+        "id":8732,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8769,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/478\/",
+        "name":"Long March 6A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":113,
+                "name":"Long March 6"
+            }
+        ],
+        "full_name":"Long March 6A",
+        "variant":"A"
+    },
+    {
+        "id":8770,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/483\/",
+        "name":"Kinetica 1",
+        "families":[
+
+        ],
+        "full_name":"Kinetica 1",
+        "variant":""
+    },
+    {
+        "id":8747,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8746,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8758,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8775,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/128\/",
+        "name":"Long March 5",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":112,
+                "name":"Long March 5"
+            }
+        ],
+        "full_name":"Long March 5",
+        "variant":""
+    },
+    {
+        "id":7885,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8771,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":2540,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/204\/",
+        "name":"H3-24",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":86,
+                "name":"H3"
+            }
+        ],
+        "full_name":"H3-24",
+        "variant":"24"
+    },
+    {
+        "id":8778,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/50\/",
+        "name":"Long March 3B\/E",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":110,
+                "name":"Long March 3"
+            }
+        ],
+        "full_name":"Long March 3B\/E",
+        "variant":"B\/E"
+    },
+    {
+        "id":8760,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8772,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8773,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8559,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/84\/",
+        "name":"Long March 2F\/G",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":109,
+                "name":"Long March 2"
+            }
+        ],
+        "full_name":"Long March 2F\/G",
+        "variant":"F\/G"
+    },
+    {
+        "id":8774,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7988,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":2176,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/172\/",
+        "name":"LVM-3 (GSLV Mk III)",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":84,
+                "name":"GSLV"
+            }
+        ],
+        "full_name":"Launch Vehicle Mark-3 (GSLV Mk III)",
+        "variant":""
+    },
+    {
+        "id":8781,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/216\/",
+        "name":"Long March 7A",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":114,
+                "name":"Long March 7"
+            }
+        ],
+        "full_name":"Long March 7A",
+        "variant":"A"
+    },
+    {
+        "id":7718,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/121\/",
+        "name":"Ariane 62",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":59,
+                "name":"Ariane"
+            },
+            {
+                "response_mode":"list",
+                "id":62,
+                "name":"Ariane 6"
+            }
+        ],
+        "full_name":"Ariane 62",
+        "variant":"62"
+    },
+    {
+        "id":8544,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/26\/",
+        "name":"Electron",
+        "families":[
+
+        ],
+        "full_name":"Electron",
+        "variant":""
+    },
+    {
+        "id":8780,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8779,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8790,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/47\/",
+        "name":"Long March 11",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":204,
+                "name":"Long March 11"
+            }
+        ],
+        "full_name":"Long March 11",
+        "variant":""
+    },
+    {
+        "id":8788,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/483\/",
+        "name":"Kinetica 1",
+        "families":[
+
+        ],
+        "full_name":"Kinetica 1",
+        "variant":""
+    },
+    {
+        "id":8782,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":8789,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/517\/",
+        "name":"Long March 12",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":106,
+                "name":"Long March"
+            },
+            {
+                "response_mode":"list",
+                "id":205,
+                "name":"Long March 12"
+            }
+        ],
+        "full_name":"Long March 12",
+        "variant":""
+    },
+    {
+        "id":8792,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/461\/",
+        "name":"Ceres-1",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":2,
+                "name":"Ceres-1"
+            }
+        ],
+        "full_name":"Ceres-1",
+        "variant":"Ceres-1"
+    },
+    {
+        "id":8785,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    },
+    {
+        "id":7783,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/138\/",
+        "name":"New Glenn",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":214,
+                "name":"New Glenn"
+            }
+        ],
+        "full_name":"New Glenn",
+        "variant":""
+    },
+    {
+        "id":145,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/27\/",
+        "name":"Atlas V 551",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":66,
+                "name":"Atlas"
+            },
+            {
+                "response_mode":"list",
+                "id":174,
+                "name":"Atlas V"
+            }
+        ],
+        "full_name":"Atlas V 551",
+        "variant":"551"
+    },
+    {
+        "id":8786,
+        "response_mode":"list",
+        "url":"https:\/\/lldev.thespacedevs.com\/2.3.0\/launcher_configurations\/164\/",
+        "name":"Falcon 9",
+        "families":[
+            {
+                "response_mode":"list",
+                "id":1,
+                "name":"Falcon"
+            },
+            {
+                "response_mode":"list",
+                "id":176,
+                "name":"Falcon 9"
+            }
+        ],
+        "full_name":"Falcon 9 Block 5",
+        "variant":"Block 5"
+    }
+]

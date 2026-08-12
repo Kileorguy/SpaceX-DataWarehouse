@@ -23,8 +23,8 @@ def run():
 
         load_fact(
             model=model,
-            json_file=cfg[
-                "json_file"
+            csv_data=cfg[
+                "csv_data"
             ],
             unique_key=cfg[
                 "unique_key"
