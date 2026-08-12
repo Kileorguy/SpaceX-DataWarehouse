@@ -17,14 +17,14 @@ def run():
         )
 
     lookups = build_lookups()
-    # print(lookups)
+    print(lookups['orbit'])
 
     for model, cfg in FACT_CONFIG.items():
-
+        # break
         load_fact(
             model=model,
-            csv_data=cfg[
-                "csv_data"
+            json_file=cfg[
+                "json_file"
             ],
             unique_key=cfg[
                 "unique_key"

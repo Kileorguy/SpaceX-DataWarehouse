@@ -25,297 +25,228 @@ TABLE_CONFIG = {
         }
     },
 
-    # MissionDimension: {
-    #
-    #     "json_file": "staging_data/splitted/mission.csv",
-    #
-    #     "unique_key": "mission_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "mission_id": x["mission"]["id"],
-    #
-    #         "mission_name": x["mission"]["name"],
-    #
-    #         "mission_type": x["mission"]["type"],
-    #
-    #         "mission_description": x["mission"]["description"]
-    #     }
-    # },
-    #
-    # PadDimension: {
-    #
-    #     "json_file": "staging_data/splitted/pads.csv",
-    #
-    #     "unique_key": "pad_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "pad_id": x["pad"]["id"],
-    #
-    #         "pad_name": x["pad"]["name"],
-    #
-    #         "location_name": x["pad"]["location"]["name"],
-    #
-    #         "country": x["pad"]["location"]["country"]["name"],
-    #
-    #         "active": x["pad"]["active"]
-    #     }
-    # },
-    #
-    # StatusDimension: {
-    #
-    #     "json_file": "staging_data/splitted/launches.csv",
-    #
-    #     "unique_key": "status_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "status_id": x["status"]["id"],
-    #
-    #         "status_name": x["status"]["name"],
-    #
-    #         "abbreviation": x["status"]["abbrev"],
-    #
-    #         "description": x["status"]["description"]
-    #     }
-    # },
-    # StatusDimension: {
-    #
-    #         "json_file": "staging_data/splitted/landings.csv",
-    #
-    #         "unique_key": "status_id",
-    #
-    #         "transform": lambda x: {
-    #
-    #             "status_id": x["status"]["id"],
-    #
-    #             "status_name": x["status"]["name"],
-    #
-    #             "abbreviation": x["status"]["abbrev"],
-    #
-    #             "description": x["status"]["description"]
-    #         }
-    #     },
-    #
-    # ProviderDimension: {
-    #
-    #     "json_file": "staging_data/splitted/providers.csv",
-    #
-    #     "unique_key": "provider_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "provider_id": x["launch_service_provider"]["id"],
-    #
-    #         "provider_name": x["launch_service_provider"]["name"],
-    #
-    #         "abbreviation": x["launch_service_provider"]["abbrev"],
-    #
-    #         "agency_type": x["launch_service_provider"]["type"]["name"]
-    #     }
-    # },
-    #
-    # DateDimension: {
-    #
-    # "json_file": "staging_data/splitted/spacecraft_flights.csv",
-    #
-    # "unique_key": "date_key",
-    #
-    # "transform": lambda x: (
-    #
-    #     lambda dt: {
-    #
-    #         "date_key": int(dt.strftime("%Y%m%d")),
-    #
-    #         "full_date": dt.date(),
-    #
-    #         "year": dt.year,
-    #
-    #         "quarter": (dt.month - 1) // 3 + 1,
-    #
-    #         "month": dt.month,
-    #
-    #         "week": dt.isocalendar().week,
-    #
-    #         "day": dt.day
-    #
-    #     }
-    #
-    # )(
-    #     datetime.fromisoformat(
-    #         x["launch"]["window_start"].replace("Z", "+00:00")
-    #         # x["launch"]["window_end"].replace("Z", "+00:00")
-    #     )
-    # ),
-    # },
-    #
-    # DateDimension: {
-    #
-    # "json_file": "staging_data/launches.csv",
-    #
-    # "unique_key": "date_key",
-    #
-    # "transform": lambda x: (
-    #
-    #     lambda dt: {
-    #
-    #         "date_key": int(dt.strftime("%Y%m%d")),
-    #
-    #         "full_date": dt.date(),
-    #
-    #         "year": dt.year,
-    #
-    #         "quarter": (dt.month - 1) // 3 + 1,
-    #
-    #         "month": dt.month,
-    #
-    #         "week": dt.isocalendar().week,
-    #
-    #         "day": dt.day
-    #
-    #     }
-    #
-    # )(
-    #     datetime.fromisoformat(
-    #         x["window_end"].replace("Z", "+00:00")
-    #         # x["window_start"].replace("Z", "+00:00")
-    #     )
-    # ),
-    # },
-    #
-    #
-    # LandingTypeDimension: {
-    #
-    #     "json_file": "staging_data/landings.csv",
-    #
-    #     "unique_key": "landing_type_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "landing_type_id": x['type']['id'],
-    #
-    #         "landing_type_name": x['type']['name'],
-    #
-    #         "abbreviation": x['type']['abbrev'],
-    #
-    #         "description": x['type']['description']
-    #     }
-    # },
-    #
-    # LocationDimension: {
-    #
-    #     "json_file": "staging_data/spacecraft_flights.csv",
-    #
-    #     "unique_key": "location_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "location_id": x['landing']['landing_location']["id"],
-    #
-    #         "name": x['landing']['landing_location']['name'],
-    #
-    #         "abbreviation": x['landing']['landing_location']['abbrev'],
-    #
-    #         "description": x['landing']['landing_location']['description'],
-    #
-    #         "latitude": x['landing']['landing_location']['latitude'],
-    #
-    #         "longitude": x['landing']['landing_location']['longitude']
-    #     }
-    # },
-    #
-    # SpacecraftDimension: {
-    #
-    #     "json_file": "staging_data/spacecraft_flights.csv",
-    #
-    #     "unique_key": "spacecraft_id",
-    #
-    #     "transform": lambda x: None if x.get("spacecraft") is None else {
-    #
-    #         "spacecraft_id": x['spacecraft']['id'],
-    #
-    #         "spacecraft_name": x['spacecraft']['name'],
-    #
-    #         "serial_number": x['spacecraft']['serial_number'],
-    #
-    #         "configuration_name": x['spacecraft']['spacecraft_config']['name'],
-    #
-    #         "spacecraft_type": x['spacecraft']['spacecraft_config']['type']['name'],
-    #
-    #         "status": x['spacecraft']['status']['name'],
-    #
-    #         "in_use": x['spacecraft']['in_space'],
-    #
-    #         "lifetime_flights": x['spacecraft']['flights_count'],
-    #
-    #         "description": x['spacecraft']['description']
-    #     }
-    # },
-    #
-    # ProgramDimension: {
-    #
-    #     "json_file": "staging_data/payload_flights.csv",
-    #
-    #     "unique_key": "program_id",
-    #
-    #     "transform": lambda x: [
-    #
-    #         {
-    #             "program_id": program["id"],
-    #             "program_name": program["name"]
-    #         }
-    #
-    #         for program in x["payload"]["program"]
-    #     ]
-    # },
-    #
-    # AgencyDimension: {
-    #
-    #     "json_file": "staging_data/payload_flights.csv",
-    #
-    #     "unique_key": "agency_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "agency_id": x['payload']['manufacturer']['id'],
-    #
-    #         "agency_name": x['payload']['manufacturer']['name'],
-    #
-    #         "abbreviation": x['payload']['manufacturer']['abbrev'],
-    #
-    #         "agency_type": x['payload']['manufacturer']['type']['name'],
-    #
-    #         "country": x['payload']['manufacturer']['country'][0]['name'],
-    #
-    #         "administrator": x['payload']['manufacturer']['administrator']
-    #     }
-    # },
-    #
-    # AgencyDimension: {
-    #
-    #     "json_file": "staging_data/payload_flights.csv",
-    #
-    #     "unique_key": "agency_id",
-    #
-    #     "transform": lambda x: {
-    #
-    #         "agency_id": x['payload']['operator']['id'],
-    #
-    #         "agency_name": x['payload']['operator']['name'],
-    #
-    #         "abbreviation": x['payload']['operator']['abbrev'],
-    #
-    #         "agency_type": x['payload']['operator']['type']['name'],
-    #
-    #         "country": x['payload']['operator']['country'][0]['name'],
-    #
-    #         "administrator": x['payload']['operator']['administrator']
-    #     }
-    # },
-    #
-    #
-    #
+    MissionDimension: {
+    
+        "json_file": "staging_data/splitted/missions.json",
+    
+        "unique_key": "mission_id",
+    
+        "transform": lambda x: {
+    
+            "mission_id": x["id"],
+    
+            "mission_name": x["name"],
+    
+            "mission_type": x["type"],
+    
+            "mission_description": x["description"]
+        }
+    },
+    
+    PadDimension: {
+    
+        "json_file": "staging_data/splitted/pads.json",
+    
+        "unique_key": "pad_id",
+    
+        "transform": lambda x: {
+    
+            "pad_id": x["id"],
+    
+            "pad_name": x["name"],
+    
+            "location_name": x["location"]["name"],
+    
+            "country": x["location"]["country"]["name"],
+    
+            "active": x["active"]
+        }
+    },
+
+    StatusDimension: {
+    
+        "json_file": "staging_data/splitted/launches.json",
+    
+        "unique_key": "status_id",
+    
+        "transform": lambda x: {
+    
+            "status_id": x["status"]["id"],
+    
+            "status_name": x["status"]["name"],
+    
+            "abbreviation": x["status"]["abbrev"],
+    
+            "description": x["status"]["description"]
+        }
+    },
+
+    ProviderDimension: {
+    
+        "json_file": "staging_data/splitted/providers.json",
+    
+        "unique_key": "provider_id",
+    
+        "transform": lambda x: {
+    
+            "provider_id": x["id"],
+    
+            "provider_name": x["name"],
+    
+            "abbreviation": x["abbrev"],
+    
+            "agency_type": x["type"]["name"]
+        }
+    },
+    
+    DateDimension: {
+    
+    "json_file": "staging_data/splitted/launches.json",
+    
+    "unique_key": "date_key",
+    
+    "transform": lambda x: (
+    
+        lambda dt: {
+    
+            "date_key": int(dt.strftime("%Y%m%d")),
+    
+            "full_date": dt.date(),
+    
+            "year": dt.year,
+    
+            "quarter": (dt.month - 1) // 3 + 1,
+    
+            "month": dt.month,
+    
+            "week": dt.isocalendar().week,
+    
+            "day": dt.day
+    
+        }
+    
+    )(
+        datetime.fromisoformat(
+            x["window_start"].replace("Z", "+00:00")
+        )
+    ),
+    },
+
+    LandingTypeDimension: {
+    
+        "json_file": "staging_data/splitted/landings.json",
+    
+        "unique_key": "landing_type_id",
+    
+        "transform": lambda x: {
+    
+            "landing_type_id": x['type']['id'],
+    
+            "landing_type_name": x['type']['name'],
+    
+            "abbreviation": x['type']['abbrev'],
+    
+            "description": x['type']['description']
+        }
+    },
+
+    LocationDimension: {
+    
+        "json_file": "staging_data/splitted/landings.json",
+    
+        "unique_key": "location_id",
+    
+        "transform": lambda x: {
+            "location_id": x['landing_location']["id"] if x['landing_location'] else None,
+            "name": x['landing_location']['name'] if x['landing_location'] else None,
+    
+            "abbreviation": x['landing_location']['abbrev'] if x['landing_location'] else None,
+    
+            "description": x['landing_location']['description'] if x['landing_location'] else None,
+    
+            "latitude": x['landing_location']['latitude'] if x['landing_location'] else None,
+    
+            "longitude": x['landing_location']['longitude'] if x['landing_location'] else None
+        }
+    },
+
+    SpacecraftDimension: {
+    
+        "json_file": "staging_data/splitted/spacecrafts.json",
+    
+        "unique_key": "spacecraft_id",
+    
+        "transform": lambda x: None if x is None else {
+    
+            "spacecraft_id": x['id'],
+    
+            "spacecraft_name": x['name'],
+    
+            "serial_number": x['serial_number'],
+    
+            "configuration_name": x['spacecraft_config']['name'],
+    
+            "spacecraft_type": x['spacecraft_config']['type']['name'],
+    
+            "status": x['status']['name'],
+    
+            "in_use": x['in_space'],
+    
+            "lifetime_flights": x['flights_count'],
+    
+            "description": x['description']
+        }
+    },
+    
+    ProgramDimension: {
+    
+        "json_file": "staging_data/splitted/programs.json",
+    
+        "unique_key": "program_id",
+    
+        "transform": lambda x: [
+    
+            {
+                "program_id": x["id"],
+                "program_name": x["name"]
+            }
+            
+        ]
+    },
+
+    AgencyDimension: {
+    
+        "json_file": "staging_data/splitted/agencies.json",
+    
+        "unique_key": "agency_id",
+    
+        "transform": lambda x: {
+    
+            "agency_id": x['id'],
+    
+            "agency_name": x['name'],
+    
+            "abbreviation": x['abbrev'],
+    
+            "agency_type": x['type']['name'],
+    
+            "country": x['country'][0]['name'],
+    
+            "administrator": x['administrator']
+        }
+    },
+
+    OrbitDimension: {
+        "json_file": "staging_data/splitted/orbits.json",
+
+        "unique_key": "orbit_id",
+
+        "transform": lambda x: {
+            "orbit_id": x.get("id"),
+            "name": x.get("name")
+        }
+},
+
 }
 
 FACT_CONFIG = {
@@ -380,111 +311,112 @@ FACT_CONFIG = {
         )
     }
 },
-LandingFact: {
 
-    "json_file": "staging_data/spacecraft_flights.csv",
+# LandingFact: {
 
-    "unique_key": "landing_id",
+#     "json_file": "staging_data/spacecraft_flights.csv",
 
-    "transform": lambda x, lookup: {
+#     "unique_key": "landing_id",
 
-        "landing_id": x["landing"]["id"],
+#     "transform": lambda x, lookup: {
 
-        "date_key": lookup["date"][
-            str(int(
-                datetime
-                .fromisoformat(
-                    x["launch"]["window_start"]
-                    .replace(
-                        "Z",
-                        "+00:00"
-                    )
-                )
-                .strftime("%Y%m%d")
-            ))
-        ],
+#         "landing_id": x["landing"]["id"],
 
-        "spacecraft_key": lookup[
-            "spacecraft"
-        ][
-            str(
-                x["spacecraft"]["id"]
-            )
-        ],
+#         "date_key": lookup["date"][
+#             str(int(
+#                 datetime
+#                 .fromisoformat(
+#                     x["launch"]["window_start"]
+#                     .replace(
+#                         "Z",
+#                         "+00:00"
+#                     )
+#                 )
+#                 .strftime("%Y%m%d")
+#             ))
+#         ],
 
-        "location_key": lookup[
-            "location"
-        ][
-            str(
-                x["landing"]["landing_location"]["id"]
-            )
-        ],
+#         "spacecraft_key": lookup[
+#             "spacecraft"
+#         ][
+#             str(
+#                 x["spacecraft"]["id"]
+#             )
+#         ],
 
-        "landing_type_key": lookup[
-            "landing_type"
-        ][
-            str(
-                x["landing"]["type"]["id"]
-            )
-        ],
+#         "location_key": lookup[
+#             "location"
+#         ][
+#             str(
+#                 x["landing"]["landing_location"]["id"]
+#             )
+#         ],
 
-        "attempt_flag": x["landing"]["attempt"],
+#         "landing_type_key": lookup[
+#             "landing_type"
+#         ][
+#             str(
+#                 x["landing"]["type"]["id"]
+#             )
+#         ],
 
-        "success_flag": x["landing"]["success"]
-    }
-},
-PayloadFact: {
+#         "attempt_flag": x["landing"]["attempt"],
 
-    "json_file": "staging_data/payload_flights.csv",
+#         "success_flag": x["landing"]["success"]
+#     }
+# },
+# PayloadFact: {
 
-    "unique_key": "payload_id",
+#     "json_file": "staging_data/payload_flights.csv",
 
-    "transform": lambda x, lookup: {
+#     "unique_key": "payload_id",
 
-        "payload_id": x["id"],
-        "payload_name": x["payload"]["name"],
-        "description": x["payload"]["description"],
-        "payload_type": x["payload"]["type"]["id"],
+#     "transform": lambda x, lookup: {
 
-        "launch_key": lookup[
-            "launch"
-        ].get(
-            str(
-                x["launch"]["id"]
-            )
-        ),
+#         "payload_id": x["id"],
+#         "payload_name": x["payload"]["name"],
+#         "description": x["payload"]["description"],
+#         "payload_type": x["payload"]["type"]["id"],
 
-        "program_key": (
-            lookup["program"].get(
-                str(x["payload"]["program"][0]["id"])
-            )
-            if x["payload"]["program"]
-            else None
-        ),
+#         "launch_key": lookup[
+#             "launch"
+#         ].get(
+#             str(
+#                 x["launch"]["id"]
+#             )
+#         ),
 
-        "manufacturer_key": lookup[
-            "agency"
-        ][
-            str(
-                x["payload"]["manufacturer"]["id"]
-            )
-        ],
+#         "program_key": (
+#             lookup["program"].get(
+#                 str(x["payload"]["program"][0]["id"])
+#             )
+#             if x["payload"]["program"]
+#             else None
+#         ),
 
-        "operator_key": lookup[
-            "agency"
-        ][
-            str(
-                x["payload"]["operator"]["id"]
-            )
-        ],
+#         "manufacturer_key": lookup[
+#             "agency"
+#         ][
+#             str(
+#                 x["payload"]["manufacturer"]["id"]
+#             )
+#         ],
 
-        "payload_count": 1,
+#         "operator_key": lookup[
+#             "agency"
+#         ][
+#             str(
+#                 x["payload"]["operator"]["id"]
+#             )
+#         ],
 
-        "mass_kg": x['payload']["mass"],
+#         "payload_count": 1,
 
-        "cost": x["payload"]["cost"] or -1
-    }
-}
+#         "mass_kg": x['payload']["mass"],
+
+#         "cost": x["payload"]["cost"] or -1
+#     }
+# }
 
     
 }

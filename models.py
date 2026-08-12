@@ -18,6 +18,11 @@ from database import Base
 # DIMENSIONS
 # ==========================
 
+class OrbitDimension(Base):
+    __tablename__ = "dim_orbit"
+    orbit_id = Column(Integer, primary_key=True)
+    name = Column(String)
+
 class DateDimension(Base):
     __tablename__ = "dim_date"
 
@@ -116,7 +121,7 @@ class SpacecraftDimension(Base):
 
     spacecraft_key = Column(Integer, primary_key=True)
 
-    spacecraft_id = Column(String, unique=True)
+    spacecraft_id = Column(Integer, unique=True)
     spacecraft_name = Column(String)
     serial_number = Column(String)
     configuration_name = Column(String)
@@ -176,6 +181,12 @@ class LaunchFact(Base):
         ForeignKey("dim_date.date_key")
     )
 
+    orbit_key = Column(
+        Integer,
+        ForeignKey("dim_orbit.orbit_id")
+    )
+
+
     rocket_key = Column(
         Integer,
         ForeignKey("dim_rocket.rocket_key")
@@ -217,6 +228,12 @@ class LandingFact(Base):
         Integer,
         ForeignKey("dim_date.date_key")
     )
+
+    orbit_key = Column(
+        Integer,
+        ForeignKey("dim_orbit.orbit_id")
+    )
+
 
     location_key = Column(
         Integer,

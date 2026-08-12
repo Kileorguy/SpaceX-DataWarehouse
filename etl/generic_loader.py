@@ -19,10 +19,9 @@ def load_dimension(
             raw_data = json.load(f)
         if isinstance(raw_data, dict):
             raw_data = raw_data["results"]
-
         existing = {
 
-            row[0]
+            int(row[0]) if(row[0]) else row[0]
 
             for row in db.query(
                 getattr(model, unique_key)
@@ -32,10 +31,8 @@ def load_dimension(
         objects = []
 
         for row in raw_data:
-            print(row)
-
+            
             transformed_rows = transform(row)
-
             if transformed_rows is None:
                 continue
 
@@ -68,7 +65,7 @@ def load_dimension(
                             )
 
                         continue
-
+            
                 if key in existing:
                     continue
 

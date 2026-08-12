@@ -105,7 +105,15 @@ def build_lookups():
                 "launch_key",
                 "launch_key"
             ),
+            "orbit": make_lookup(
+                db,
+                OrbitDimension,
+                "orbit_id",
+                "orbit_id"
+
+            )
         }
+        
 
     finally:
 
